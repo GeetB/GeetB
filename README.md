@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geet
 - 👀 I Love to explore BigData and Cloud
-- 🌱 I’m currently learning ML
+- 🌱 This repo will have the Spark code using scala. 
 - 📫 I can be reached at geet.bhalshankar@gmail.com
 
 <!---
